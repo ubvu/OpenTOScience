@@ -17,7 +17,7 @@ You can play with the Open Science Against Humanity deck <a href="https://md.rer
 One player needs to start the game and invite the others. To do so, fill in one name and click on "Play". 
 
 
-In the "Deck Source" dropdown menu select **Many Decks** and for the deck code use **O3860**. Next click on the "+" to add the deck. You will receive a game code that you can share with fellow players. They can join the game by going to https://md.rereadgames.com/games/[game code]
+In the "Deck Source" dropdown menu select **Many Decks** and for the deck code use **DNGZN**. Next click on the "+" to add the deck. You will receive a game code that you can share with fellow players. They can join the game by going to https://md.rereadgames.com/games/[game code]
 
 Note that optional adjustments in the rules and time limits are possible if you have specific preferences.
 
